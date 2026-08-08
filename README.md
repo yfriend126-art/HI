@@ -1,1 +1,1 @@
-# HI
+# Prime number program
